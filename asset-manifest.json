@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/symbiosis/static/css/main.ae42ac5f.css",
+    "main.js": "/symbiosis/static/js/main.1ab29701.js",
+    "static/media/logo.png": "/symbiosis/static/media/logo.d71f6ac230526a76e3c4.png",
+    "index.html": "/symbiosis/index.html",
+    "main.ae42ac5f.css.map": "/symbiosis/static/css/main.ae42ac5f.css.map",
+    "main.1ab29701.js.map": "/symbiosis/static/js/main.1ab29701.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.1ab29701.js"
+  ]
+}
