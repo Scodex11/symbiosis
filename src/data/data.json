@@ -1,0 +1,142 @@
+{
+  "Header": {
+    "title": "Symbiosis",
+    "paragraph": "Somos el cambio que necesitas..."
+  },
+  "About": {
+    "paragraph": "Somos un equipo de profesionales con experiencia en el sector de la informática. Nuestro objetivo es ofrecer un servicio integral a nuestros clientes, para que no tengan que preocuparse de nada, brindando software a medida, asesoramiento y soporte técnico.",
+    "Why": [
+      "Eficacez",
+      "Confiables",
+      "Rápidos"
+    ],
+    "Why2": [
+      "Nos ajustamos a ti",
+      "Somos bolsos",
+      "No te arrepentirás"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Desarrollo Web",
+      "text": "Diseño y desarrollo web personalizado para impulsar tu presencia online. Soluciones flexibles y atractivas para tu marca."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Gestión de Pedidos",
+      "text": "Optimiza el flujo de pedidos con nuestra plataforma intuitiva. Mejora la eficiencia y la satisfacción del cliente."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Almacenamiento en la Nube",
+      "text": "Accede y comparte datos de forma segura con nuestro servicio de almacenamiento en la nube. Escalable y confiable."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Localización Global",
+      "text": "Expande tu alcance global con servicios de localización. Rompe barreras lingüísticas y llega a nuevos mercados eficazmente."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Implementación Rápida",
+      "text": "Despliega proyectos de manera eficiente. Nuestra metodología garantiza una implementación rápida y sin complicaciones."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Análisis de Datos",
+      "text": "Obtén insights poderosos con nuestro servicio de análisis. Toma decisiones informadas y optimiza tu estrategia empresarial."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Symbiosis ha superado mis expectativas. Con su apoyo, mi empresa ha alcanzado nuevos horizontes. Muy agradecido.\"",
+      "name": "Ana Rodríguez"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Increíble colaboración. Symbiosis ha sido clave en el crecimiento de nuestro negocio. Recomendado al 100%.\"",
+      "name": "Diego Silva"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Con Symbiosis, cada desafío se convierte en una oportunidad. Su compromiso es excepcional. Gracias por todo.\"",
+      "name": "Martín Fernández"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/carlos.jpeg",
+      "name": "Carlos Melian",
+      "job": "Desarrollo y Testing"
+    },
+    {
+      "img": "img/team/ihara.jpeg",
+      "name": "Ihara Alvez",
+      "job": "Scrum Master"
+    },
+    {
+      "img": "img/team/facu.jpeg",
+      "name": "Facundo Rodriguez",
+      "job": "Product Owner"
+    },
+    {
+      "img": "img/team/camila.jpeg",
+      "name": "Karen Doe",
+      "job": "Desarrollo y Testing"
+    },
+    {
+      "img": "img/team/lucia.jpeg",
+      "name": "Karen Doe",
+      "job": "Desarrollo y Testing"
+    }
+  ],
+  "Contact": {
+    "address": "Av. Luis A. de Herrera 3326 | Montevideo, Uruguay ",
+    "phone": "+1 123 456 1234",
+    "email": "info@symbiosis.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Automatización Inteligente",
+      "text": "En Symbiosis, nos enorgullece impulsar la eficiencia a través de nuestra automatización inteligente, acelerando tu ciclo de desarrollo."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Seguridad Centrada",
+      "text": "En Symbiosis, priorizamos la seguridad, implementando protocolos avanzados para proteger tu código y datos sensibles."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Colaboración Facilitada",
+      "text": "En Symbiosis, facilitamos la colaboración con herramientas integradas de comunicación, potenciando la eficacia en equipos dispersos."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Despliegue Multinube",
+      "text": "Nosotros en Symbiosis ofrecemos un despliegue fluido en entornos multinube, maximizando la flexibilidad y disponibilidad de tu software."
+    }
+  ]
+}
