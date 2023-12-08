@@ -18,19 +18,19 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
+      "title": "Gestión CLINICO-HOSPITALARIO | Desktop",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Gestión CLINICO-HOSPITALARIO | WebApp SOON...",
       "largeImage": "img/portfolio/02-large.jpg",
       "smallImage": "img/portfolio/02-small.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "Gestión CLINICO-HOSPITALARIO | Mobile SOON...",
+      "largeImage": "img/portfolio/carlos.jpeg",
+      "smallImage": "img/portfolio/carlos.jpeg"
     }
   ],
   "Services": [
@@ -68,17 +68,17 @@
   "Testimonials": [
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Symbiosis ha superado mis expectativas. Con su apoyo, mi empresa ha alcanzado nuevos horizontes. Muy agradecido.\"",
-      "name": "Ana Rodríguez"
+      "text": "Symbiosis ha superado mis expectativas. Con su apoyo, mi empresa ha alcanzado nuevos horizontes. Muy agradecido.",
+      "name": "Jorge Ramirez "
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Increíble colaboración. Symbiosis ha sido clave en el crecimiento de nuestro negocio. Recomendado al 100%.\"",
+      "text": "Increíble colaboración. Symbiosis ha sido clave en el crecimiento de nuestro negocio. Recomendado al 100%.",
       "name": "Diego Silva"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Con Symbiosis, cada desafío se convierte en una oportunidad. Su compromiso es excepcional. Gracias por todo.\"",
+      "text": "Con Symbiosis, cada desafío se convierte en una oportunidad. Su compromiso es excepcional. Gracias por todo.",
       "name": "Martín Fernández"
     }
   ],
@@ -100,22 +100,20 @@
     },
     {
       "img": "img/team/camila.jpeg",
-      "name": "Karen Doe",
+      "name": "Camila Abarno",
       "job": "Desarrollo y Testing"
     },
     {
       "img": "img/team/lucia.jpeg",
-      "name": "Karen Doe",
+      "name": "Lucia González de María",
       "job": "Desarrollo y Testing"
     }
   ],
   "Contact": {
-    "address": "Av. Luis A. de Herrera 3326 | Montevideo, Uruguay ",
-    "phone": "+1 123 456 1234",
-    "email": "info@symbiosis.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": "Av. Millán 2515 | Montevideo, Uruguay ",
+    "phone": "+598 99 094 602",
+    "email": "symbiosis.utec@gmail.com",
+    "instagram": "https://www.instagram.com/symbiosis.utec/"
   },
   "Features": [
     {
