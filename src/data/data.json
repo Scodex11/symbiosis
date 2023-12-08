@@ -100,19 +100,19 @@
     },
     {
       "img": "img/team/camila.jpeg",
-      "name": "Karen Doe",
+      "name": "Camila Arbano",
       "job": "Desarrollo y Testing"
     },
     {
       "img": "img/team/lucia.jpeg",
-      "name": "Karen Doe",
+      "name": "Lucia González de María",
       "job": "Desarrollo y Testing"
     }
   ],
   "Contact": {
-    "address": "Av. Luis A. de Herrera 3326 | Montevideo, Uruguay ",
-    "phone": "+1 123 456 1234",
-    "email": "info@symbiosis.com",
+    "address": "Av. Millán 2515 | Montevideo, Uruguay ",
+    "phone": "+598 99 094 602",
+    "email": "symbiosis.utec@gmail.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
